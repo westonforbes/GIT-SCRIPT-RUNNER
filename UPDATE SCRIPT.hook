@@ -1,0 +1,5 @@
+git add --all
+git commit -m"Daily Update"
+git push
+git status
+read -p "Press enter to continue"
