@@ -9,7 +9,4 @@ echo ""
 git push
 echo ""
 echo ""
-git status
-echo ""
-echo ""
 read -p "Done"
