@@ -1,9 +1,11 @@
+echo "Enter update notes:"
+read notes
 echo ""
 echo ""
 git add --all
 echo ""
 echo ""
-git commit -m"Daily Update"
+git commit -m"Daily Update: ${notes}"
 echo ""
 echo ""
 git push
