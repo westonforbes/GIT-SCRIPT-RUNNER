@@ -1,5 +1,7 @@
 git add --all
 read "..."
+read "..."
+read "..."
 git commit -m"Daily Update"
 read -p "..."
 git push
