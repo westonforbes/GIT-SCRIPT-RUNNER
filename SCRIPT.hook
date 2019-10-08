@@ -1,3 +1,5 @@
+echo ""
+echo ""
 echo "Enter update notes:"
 read notes
 echo ""
@@ -11,6 +13,6 @@ echo ""
 git push
 echo ""
 echo ""
-echo "Done"
+echo "Done, will close in 5 seconds..."
 sleep 5s
 exit
