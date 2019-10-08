@@ -11,4 +11,6 @@ echo ""
 git push
 echo ""
 echo ""
-read -p "Done"
+echo "Done"
+sleep 5s
+exit
